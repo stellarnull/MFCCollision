@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/1/14 22:49:19。
+     1>项目“C:\2013011727_613781_469007447_2013011727_陈星雨\MFCApplication6\MFCApplication6\MFCApplication6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         I:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MFCApplication6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\2013011727_613781_469007447_2013011727_陈星雨\mfcapplication6\mfcapplication6\stdafx.h(33): fatal error C1083: 无法打开类型库文件:“C:\Program Files\Common Files\System\ADO\msado15.dll”: No such file or directory
+     1>已完成生成项目“C:\2013011727_613781_469007447_2013011727_陈星雨\MFCApplication6\MFCApplication6\MFCApplication6.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.58
